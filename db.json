@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "email": "marklumba1@gmail.com",
+      "password": "$2a$10$Ze5mOpxbH7bfmmv786Zh2esIfxVvUhTYaQKek45pmc1pVe6oIbdiG",
+      "firstName": "Mark",
+      "lastName": "Lumba",
+      "id": 1
+    },
+    {
+      "email": "marklumba2@gmail.com",
+      "password": "$2a$10$LSkgcDAiytTgVWpT7T6L0uQ2ANhr.JgNoD.t08D9vEPTFUsEO52oO",
+      "firstName": "Mark",
+      "lastName": "Mok",
+      "id": 2
+    },
+    {
+      "email": "mokmok@gmail.com",
+      "password": "$2a$10$d/QCTju0Y9gKrCMqrIC70.BxbAzc9sMauFBBSxabqDBgf4kNCJRR6",
+      "firstName": "Mark",
+      "lastName": "Lumba",
+      "id": 3
+    },
+    {
+      "email": "marklumba3@gmail.com",
+      "password": "$2a$10$szECBDWW.DZ.rm61HZNUuu2eg1NwZI0.WbFBTJEdvolFYqEbBudlS",
+      "firstName": "Mark",
+      "lastName": "Lumba",
+      "id": 4
+    },
+    {
+      "email": "asdsd@gmail.com",
+      "password": "$2a$10$6ytTjbVASop3qQicHDq6jus.JuejSCOjtgQxhTgYFY.mpq5m1dyEy",
+      "firstName": "",
+      "lastName": "",
+      "id": 5
+    },
+    {
+      "email": "jom@gmail.com",
+      "password": "$2a$10$/LPDHn6Tl10UqG0AJriAa./0BLspqNW9VnMbSpyzNORLADVTfJd2m",
+      "firstName": "jom",
+      "lastName": "jom",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "text": "asdasdasdasdasdsdsdasd",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "text": "asdasdasdzxsdfsdfd",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "text": "asdasdasdasdsdfsdfsdf",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "text": "asdasdasdasdasdsadsd",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "text": "asdasdasdsdasdsdsdsdsdsdadasdadsad",
+      "userId": 3,
+      "date": "2/22/2023",
+      "id": 5
+    },
+    {
+      "text": "mark lumba",
+      "userId": 3,
+      "date": "2/22/2023",
+      "id": 6
+    },
+    {
+      "text": "asdasdasdasdd",
+      "userId": 3,
+      "date": "2/22/2023",
+      "id": 7
+    },
+    {
+      "text": "sadasdasdasd",
+      "userId": 3,
+      "date": "2/22/2023",
+      "id": 8
+    },
+    {
+      "text": "asdsadsadasdads",
+      "userId": 3,
+      "date": "2/22/2023",
+      "id": 9
+    },
+    {
+      "text": "asdasdasdasdasdasdasd",
+      "userId": 6,
+      "date": "2/22/2023",
+      "id": 10
+    },
+    {
+      "text": "asdasdasda",
+      "userId": 6,
+      "date": "2/22/2023",
+      "id": 11
+    },
+    {
+      "text": "dsasdasdasd",
+      "userId": 6,
+      "date": "2/22/2023",
+      "id": 12
+    }
+  ]
+}
